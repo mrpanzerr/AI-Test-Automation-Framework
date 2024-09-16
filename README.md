@@ -36,7 +36,7 @@ This project aims to develop an AI-driven framework that automates the generatio
 ## **Technology Stack**
 
 - **Programming Language**: Python
-- **NLP Libraries**: Hugging Face Transformers
-- **Test Automation**: Selenium
-- **CI/CD Tools**: Jenkins, GitHub Actions
+- **NLP Libraries**: Transformers (Hugging Face)
+- **Test Automation**: Unity Test Framework
+- **CI/CD Tools**: GitHub Actions, GitLab CI/CD
 - **Version Control**: Git, GitHub
